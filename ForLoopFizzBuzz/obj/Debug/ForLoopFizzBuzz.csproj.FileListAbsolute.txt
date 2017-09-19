@@ -1,0 +1,9 @@
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\bin\Debug\ForLoopFizzBuzz.exe.config
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\bin\Debug\ForLoopFizzBuzz.exe
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\bin\Debug\ForLoopFizzBuzz.pdb
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\bin\Debug\FizzbuzzerClassLib.dll
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\bin\Debug\FizzbuzzerClassLib.pdb
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\obj\Debug\ForLoopFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\obj\Debug\ForLoopFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\obj\Debug\ForLoopFizzBuzz.exe
+C:\Users\iceso\source\repos\CSharpProjectAppTest\ForLoopFizzBuzz\obj\Debug\ForLoopFizzBuzz.pdb

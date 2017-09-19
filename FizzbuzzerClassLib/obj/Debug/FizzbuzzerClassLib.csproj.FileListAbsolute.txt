@@ -1,0 +1,5 @@
+C:\Users\iceso\source\repos\CSharpProjectAppTest\FizzbuzzerClassLib\bin\Debug\FizzbuzzerClassLib.dll
+C:\Users\iceso\source\repos\CSharpProjectAppTest\FizzbuzzerClassLib\bin\Debug\FizzbuzzerClassLib.pdb
+C:\Users\iceso\source\repos\CSharpProjectAppTest\FizzbuzzerClassLib\obj\Debug\FizzbuzzerClassLib.csproj.CoreCompileInputs.cache
+C:\Users\iceso\source\repos\CSharpProjectAppTest\FizzbuzzerClassLib\obj\Debug\FizzbuzzerClassLib.dll
+C:\Users\iceso\source\repos\CSharpProjectAppTest\FizzbuzzerClassLib\obj\Debug\FizzbuzzerClassLib.pdb
